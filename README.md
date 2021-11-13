@@ -16,24 +16,10 @@
   <code><a href="https://www.instagram.com/mrshahzl_/" title="Instagram"><img width="22" src="https://i.pinimg.com/originals/bd/c5/d8/bdc5d81a5ddb44c0a6ddac8e0c32d266.jpg"> Instagram</a></code>
 </h5>
 
-![Marsha's GitHub stats!](https://github-readme-stats.vercel.app/api?username=mrshahzl&show_icons=true&count_private=true&title_color=E8DCB5&bg_color=A67A5B&text_color=000000&icon_color=FFFFFF&count_private=True&custom_title=Marshmallows)
+![Marsha's GitHub stats!](https://github-readme-stats.vercel.app/api?username=mrshahzl&show_icons=true&count_private=true&title_color=E8DCB5&bg_color=A67A5B&text_color=000000&icon_color=FFFFFF&count_private=True&include_all_commits=true&custom_title=Marshmallows)
 
 ### I am currently Learning and using:
 <h5 align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
   </h5>
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrshahzl&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshahzl&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-  
-<br/>
