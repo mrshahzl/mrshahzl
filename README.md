@@ -22,3 +22,5 @@
 <h2 align="center"> Github Stats </h2>
 
 ![Marsha's GitHub stats!](https://github-readme-stats.vercel.app/api?username=mrshahzl&show_icons=true&count_private=true&title_color=E8DCB5&bg_color=A67A5B&text_color=000000&icon_color=FFFFFF&count_private=True&include_all_commits=true&custom_title=Marshmallows)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
