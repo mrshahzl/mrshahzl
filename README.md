@@ -10,8 +10,7 @@
   <code><a href="https://www.pinterest.com/Mrshahzl_/" title="Pinterest"><img width="22" src="https://i.pinimg.com/originals/d3/1c/34/d31c34772f9d85e371275afa465f32e6.jpg"> Pinterest</a></code>
   <code><a href="https://www.instagram.com/mrshahzl_/" title="Instagram"><img width="22" src="https://i.pinimg.com/originals/bd/c5/d8/bdc5d81a5ddb44c0a6ddac8e0c32d266.jpg"> Instagram</a></code>
 </h5>
-### Spotify Playing 🎧
-
+Spotify Playing 🎧
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 ![Marsha's GitHub stats!](https://github-readme-stats.vercel.app/api?username=mrshahzl&show_icons=true&count_private=true&title_color=E8DCB5&bg_color=A67A5B&text_color=000000&icon_color=FFFFFF&count_private=True&custom_title=Marshmallows)
 
