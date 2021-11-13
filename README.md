@@ -2,14 +2,12 @@
    <img align="center" alt="irene" width="500px" src="https://i.pinimg.com/originals/ef/f3/73/eff373557e12d3f256af334580d1ecf6.gif" />
 </h3>
 <h3 align="center">Hello there, I'm Marsha!</h3>
-  <h3>Hello!</h3>
-  ## I'm a Pure Science Student  
+  ## I'm a Science Stream Student from Malaysia :D
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning more about css and javascript 😅
+- 📚 I’m currently learning more about css and JavaScript 😅
 - 💪🏼 Future Goals: Learn more programming languages so I can expand my knowledge
 - ⚡ Fun fact: I have a pet cat (Booboo Wafflez) and 2 budgies (Baybay & Blue)!
-
+- My fav subjects: Biology, Chemistry, Japanese, Computer Science! 
 
 <h5 align="center">
   <code>
