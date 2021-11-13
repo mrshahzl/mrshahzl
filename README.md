@@ -1,4 +1,6 @@
-<img align="center" alt="irene" width="600px" src="https://i.pinimg.com/originals/ef/f3/73/eff373557e12d3f256af334580d1ecf6.gif"/>
+<h6 align="center">
+  <img align="center" alt="irene" width="600px" src="https://i.pinimg.com/originals/ef/f3/73/eff373557e12d3f256af334580d1ecf6.gif">
+</h5>
 <h2 align="center">Welcome to my about me!</h2>
   <h5>Hello!</h5>
 
