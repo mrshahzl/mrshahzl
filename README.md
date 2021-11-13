@@ -3,6 +3,13 @@
 </h3>
 <h3 align="center">Hello there, I'm Marsha!</h3>
   <h3>Hello!</h3>
+  ## I'm a Pure Science Student  
+
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning more about css and javascript 😅
+- 💪🏼 Future Goals: Learn more programming languages so I can expand my knowledge
+- ⚡ Fun fact: I have a pet cat (Booboo Wafflez) and 2 budgies (Baybay & Blue)!
+
 
 <h5 align="center">
   <code>
