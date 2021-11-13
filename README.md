@@ -1,9 +1,5 @@
-[![Marsha's Spotify](https://spotify-github-profile.vercel.app/api/view?uid=kodr6alxrx58w5ez1huh6n04l&cover_image=false&theme=default)](https://open.spotify.com/user/kodr6alxrx58w5ez1huh6n04l)
-
-
-
-<h2 align="center">Welcome to my about me!</h2>
 <img align="center" alt="irene" width="600px" src="https://i.pinimg.com/originals/ef/f3/73/eff373557e12d3f256af334580d1ecf6.gif"/>
+<h2 align="center">Welcome to my about me!</h2>
   <h5>Hello!</h5>
 <h/5>
 <h5 align="center">
