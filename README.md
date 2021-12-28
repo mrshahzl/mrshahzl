@@ -20,5 +20,5 @@
 </h5>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshahzl&show_icons=true&count_private=true&title_color=E8DCB5&bg_color=A67A5B&text_color=000000&icon_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Marshmallows" />
+  <center><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshahzl&show_icons=true&count_private=true&title_color=E8DCB5&bg_color=A67A5B&text_color=000000&icon_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Marshmallows" /></center>
 </a>
