@@ -13,12 +13,8 @@
   </h5>
 
 <h5 align="center">
-  <code>
-    <a href="https://open.spotify.com/user/kodr6alxrx58w5ez1huh6n04l" title="Spotify"><img width="22" src="https://i.pinimg.com/originals/d5/dc/8a/d5dc8a3543bc32becf4c36bd8049cfb8.jpg"> Spotify</a></code>
-  <code><a href="https://www.pinterest.com/Mrshahzl_/" title="Pinterest"><img width="22" src="https://i.pinimg.com/originals/d3/1c/34/d31c34772f9d85e371275afa465f32e6.jpg"> Pinterest</a></code>
-  <code><a href="https://www.instagram.com/mrshahzl_/" title="Instagram"><img width="22" src="https://i.pinimg.com/originals/bd/c5/d8/bdc5d81a5ddb44c0a6ddac8e0c32d266.jpg"> Instagram</a></code>
+   <code><a href="https://open.spotify.com/user/kodr6alxrx58w5ez1huh6n04l" title="Spotify"><img width="22" src="https://i.pinimg.com/originals/d5/dc/8a/d5dc8a3543bc32becf4c36bd8049cfb8.jpg"> Spotify</a></code> <code><a href="https://www.pinterest.com/Mrshahzl_/" title="Pinterest"><img width="22" src="https://i.pinimg.com/originals/d3/1c/34/d31c34772f9d85e371275afa465f32e6.jpg"> Pinterest</a></code> <code><a href="https://www.instagram.com/mrshahzl_/" title="Instagram"><img width="22" src="https://i.pinimg.com/originals/bd/c5/d8/bdc5d81a5ddb44c0a6ddac8e0c32d266.jpg"> Instagram</a></code>
 </h5>
 
-<center><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshahzl&show_icons=true&count_private=true&title_color=E8DCB5&bg_color=A67A5B&text_color=000000&icon_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Marshmallows" />
+<center><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshahzl&show_icons=true&count_private=true&title_color=E8DCB5&bg_color=A67A5B&text_color=000000&icon_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Marshmallows" />
 </a></center>
